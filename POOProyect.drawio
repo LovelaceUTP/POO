@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="ufY8ivFC1hEdPFtu6fjG">
-    <mxGraphModel dx="3369" dy="5300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="6506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Especter="" id="0">
           <mxCell />
@@ -1965,7 +1965,7 @@
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-68" value="" style="swimlane;startSize=0;swimlaneFillColor=#FFFFFF;fillColor=none;strokeColor=#86EE60;" vertex="1" parent="nrwFk1rfSpi1Nhku9jgI-3">
           <mxGeometry x="330" y="110" width="900" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-79" value="TablaUsuarios" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-68">
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-79" value="TablaUsuarios" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;swimlaneFillColor=#F4F7ED;fillColor=#86EE60;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-68">
           <mxGeometry x="10" y="6" width="880" height="584" as="geometry" />
         </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-80" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-79">
@@ -5021,447 +5021,6 @@
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-773" value="PanelUsuarios" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="730" y="-3590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-774" value="Usuario" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="-584" y="-3190" width="280" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-775" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="30" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-776" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-775">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-777" value="idUsuario: INT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-775">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-778" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="60" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-779" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-778">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-780" value="personalID: VARCHAR(15) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-778">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-781" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="90" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-782" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-781">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-783" value="fiscalID: VARCHAR(15)&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-781">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-784" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="120" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-785" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-784">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-786" value="nombres: NVARCHAR(100) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-784">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-787" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="150" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-788" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-787">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-789" value="apellidos: NVARCHAR(100) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-787">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-790" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="180" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-791" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-790">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-792" value="cargo: NVARCHAR(90)&amp;nbsp;DEFAULT(&#39;Invitado&#39;)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-790">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-793" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="210" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-794" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-793">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-795" value="telefono: VARCHAR(15) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-793">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-796" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="240" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-797" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-796">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-798" value="correo: VARCHAR(255) UNIQUE 1&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-796">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-799" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-774">
-          <mxGeometry y="270" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-800" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-799">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-801" value="contrasenia: VARCHAR(255)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-799">
-          <mxGeometry x="30" width="250" height="30" as="geometry">
-            <mxRectangle width="250" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-803" value="Evento" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="-264" y="-3220" width="180" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-804" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-805" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-804">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-806" value="idEvento" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-804">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-807" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-808" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-807">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-809" value="idUsuario" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-807">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-810" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-811" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-810">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-812" value="nombre" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-810">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-813" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-814" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-813">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-815" value="tipo" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-813">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-816" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="150" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-817" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-816">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-818" value="estado" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-816">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-819" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="180" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-820" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-819">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-821" value="capadidad" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-819">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-822" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="210" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-823" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-822">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-824" value="ubicacion" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-822">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-825" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="240" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-826" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-825">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-827" value="fechaHora" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-825">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-828" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="270" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-829" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-828">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-830" value="duracion" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-828">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-831" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-803">
-          <mxGeometry y="300" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-832" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-831">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-833" value="detalle" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-831">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-834" value="Proveedor" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="-64" y="-3102" width="180" height="212.00000000000023" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-835" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-834">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-836" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-835">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-837" value="idProveedor: INT" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-835">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-838" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-834">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-839" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-838">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-840" value="fiscalID: VARCHAR(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-838">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-841" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-834">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-842" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-841">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-843" value="nombre" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-841">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-844" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-834">
-          <mxGeometry y="120" width="180" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-845" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-844">
-          <mxGeometry width="30" height="32" as="geometry">
-            <mxRectangle width="30" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-846" value="direccion" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-844">
-          <mxGeometry x="30" width="150" height="32" as="geometry">
-            <mxRectangle width="150" height="32" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-847" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-834">
-          <mxGeometry y="152" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-848" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-847">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-849" value="telefono" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-847">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-850" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-834">
-          <mxGeometry y="182" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-851" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-850">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-852" value="correo:&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-850">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-853" value="Contacto" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;rounded=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="1">
-          <mxGeometry x="146" y="-3160" width="230" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-854" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="30" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-855" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-854">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-856" value="idContacto" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-854">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-857" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="60" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-858" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-857">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-859" value="personalID: VARCHAR(15) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-857">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-860" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="90" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-861" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-860">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-862" value="fiscalID: VARCHAR(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-860">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-863" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="120" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-864" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-863">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-865" value="nombres: NVARCHAR(100) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-863">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-866" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="150" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-867" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-866">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-868" value="apellidos: NVARCHAR(100) 1" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-866">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-869" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="180" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-870" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-869">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-871" value="cargo: NVARCHAR(90)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-869">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-872" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="210" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-873" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-872">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-874" value="telefono: VARCHAR(15)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-872">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-875" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-853">
-          <mxGeometry y="240" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-876" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-875">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-877" value="correo VARCHAR(255)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=#1D3557;fontFamily=Ubuntu Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DUbuntu%2BMono;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-875">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-879" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NcgemsYoKbR-RTSG85oJ-6" target="xdYaj9bOOvHgz-sj0mkT-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -5700,6 +5259,312 @@
         </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-935" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-881" target="Qsz4F-vezAwSg5fx23Xu-919">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-959" value="IGU.PanelNuevoEvento.java" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#86EE60;fillColor=#86EE60;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="-4640" width="700" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-960" value="Nuevo evento" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;fontColor=#2B3752;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="299.99999999999994" y="56" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-961" value="Nombre del evento" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="190" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-962" value="Messina Cake" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="210" width="640" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-963" value="Tipo del evento" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="243" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-964" value="Social" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="263" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-965" value="Agregar" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="510" y="56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-968" value="Fecha y hora" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="296" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-969" value="1000" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="316" width="150" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-983" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#2E6E65;shadow=0;dashed=0;shape=mxgraph.ios7.icons.star;fillColor=#86EE60;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="318" y="96" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-999" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="190" y="160" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1001" value="Ubicación" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="380" y="296" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1002" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Avenida Larco 123, Miraflores, Lima 18, Perú&lt;/p&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="380" y="316" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1003" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry y="200" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1004" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="670" y="200" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1005" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry y="253" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1006" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="670" y="253" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1007" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry y="306" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1008" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="670" y="306" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1009" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry y="359" width="30" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1010" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="670" y="359" width="30" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1011" value="Capacidad (personas)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="380" y="243" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1012" value="1000" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="380" y="263" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1013" value="Duración (horas)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="190" y="296" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1014" value="5" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="190" y="316" width="130" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1015" value="Detalle (máximo 255 caracteres)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="349" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1016" value="Este evento aún requiere de un contrato sólido con prestaciones de proveedores." style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="369" width="640" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1017" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="670" y="56" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1018" value="Cancelar" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1019" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry y="56" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1020" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="30" y="480" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1021" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-959">
+          <mxGeometry x="190" y="26" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1022" value="IGU.PanelNuevoProveedor.java" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#86EE60;fillColor=#86EE60;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="-5160" width="700" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1023" value="Nuevo proveedor" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;fontColor=#2B3752;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="299.99999999999994" y="56" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1024" value="Nombre del proveedor (Empresa)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="190" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1025" value="Innovatec Solutions SAC" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="210" width="640" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1026" value="Identidad fiscal (RUC)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="243" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1027" value="10447523601" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="263" width="340" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1028" value="Agregar" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="510" y="56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1029" value="Teléfono" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="296" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1030" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;+51 912345678&lt;/p&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="316" width="150" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1032" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="190" y="160" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1033" value="Dirección" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="190" y="296" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1034" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Avenida Larco 123, Miraflores, Lima 18, Perú&lt;/p&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="190" y="316" width="480" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1035" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry y="200" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1036" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="670" y="200" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1037" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry y="253" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1038" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="670" y="253" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1039" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry y="306" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1040" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="670" y="306" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1041" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry y="359" width="30" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1042" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="670" y="359" width="30" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1043" value="Correo" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="380" y="243" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1044" value="catering_Orue@gmail.com" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="380" y="263" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1047" value="Detalle (máximo 255 caracteres)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="349" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1048" value="Personal técnico calificado y soporte logístico integral" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="369" width="640" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1049" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="670" y="56" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1050" value="Cancelar" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1051" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry y="56" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1052" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="30" y="480" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1053" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="190" y="26" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1054" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#2E6E65;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cube;fillColor=#86EE60;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1022">
+          <mxGeometry x="318" y="94" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1055" value="IGU.PanelNuevoContacto.java" style="swimlane;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#86EE60;fillColor=#86EE60;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-5160" width="700" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1056" value="Nuevo contacto" style="text;strokeColor=none;fillColor=none;html=1;fontSize=25;fontStyle=1;verticalAlign=middle;align=center;fontColor=#2B3752;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="299.99999999999994" y="56" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1057" value="Nombres del contacto" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="190" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1058" value="Messina Fabiola" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="210" width="310" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1059" value="Identidad personal (DNI)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="243" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1060" value="74859700" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="263" width="310" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1061" value="Agregar" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="510" y="56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1062" value="Cargo en su empresa" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="296" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1063" value="Ejecutivo" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="316" width="160" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1065" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="190" y="160" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1066" value="Correo" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="210" y="296" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1067" value="melisa_fabi@gmail.com" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="210" y="316" width="290" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1068" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry y="200" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1069" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="670" y="200" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1070" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry y="253" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1071" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="670" y="253" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1072" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry y="306" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1073" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="670" y="306" width="30" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1074" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry y="359" width="30" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1075" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="670" y="359" width="30" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1076" value="Identidad fiscal (opcional)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="360" y="243" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1077" value="10447523601" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="360" y="263" width="310" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1078" value="Teléfono" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="520" y="296" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1079" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;+51 912345678&lt;/p&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="520" y="316" width="150" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1080" value="Detalle (máximo 255 caracteres)" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="349" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1081" value="Es un gran amigo de Frank Flores." style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="369" width="640" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1082" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="670" y="56" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1083" value="Cancelar" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1084" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry y="56" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1085" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="30" y="480" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1086" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="190" y="26" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1087" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#2E6E65;shadow=0;dashed=0;shape=mxgraph.ios7.icons.glasses;fillColor=#86EE60;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="312.5" y="113" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1088" value="Apellidos del contacto" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#2B3752;fontStyle=1;fontSize=11;verticalAlign=top;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="380" y="190" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1089" value="Loaiza Izaguirre" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#86EE60;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="360" y="210" width="310" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1090" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="340" y="200" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1091" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="340" y="253" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1092" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="500" y="306" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1093" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1055">
+          <mxGeometry x="190" y="306" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1094" value="Contemplar:&lt;div style=&quot;text-align: justify;&quot;&gt;1. Documentos de contrato (para evento y contratos, quizá también para usuarios)&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Campos de historial&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. Campos de detalles&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. Campos de métricas para la parametrización de relaciones (número de consultas, relaciones con mis proveedores, importancia de proveedor, cartera de presupuesto (asignar un valor ficticio monetario de presupuesto en la que se puedan añadir productos de proveedores y realizar una estimación de estos))&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. Impresión de detalles de eventos (como productos adquiridos, empresas proveedoras, entidades patrocinadora)&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;6. Incluir la clase de patrocinadores (esto para tomar en cuenta la información de financiamiento externo por parte de otras empresas o personas)&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;7. Hacer la distinción entre persona natural y persona jurídica (será preciso el término de entidades, para abarcar todo esto?), esto con la intención de englobar todas las entidades siguientes como Contacto, Usuario, Proveedor, Patrocinador&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;8. Hacer la distinción entre Promotor, Patrocinador y Proveedor (esto para especificar el rol de las entidades dentro del sistema). También podría ser de Organizadores, Colaboradores, Aliados estratégicos, expositores, socios de medios&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="-780" width="820" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1095" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="2020" y="140" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
