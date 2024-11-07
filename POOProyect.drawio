@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="ufY8ivFC1hEdPFtu6fjG">
-    <mxGraphModel dx="2342" dy="6410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2929" dy="6721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Especter="" id="0">
           <mxCell />
@@ -5696,9 +5696,6 @@
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-1262" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Felicitaciones&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: justify; line-height: 100%;&quot;&gt;&quot;Se registró el&lt;b&gt;&amp;nbsp;proveedor&lt;/b&gt;: \n&quot; +&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 100%;&quot;&gt;nuevo_proveedor + &quot;\n&quot; +&lt;/p&gt;&lt;p style=&quot;text-align: justify; line-height: 100%;&quot;&gt;&quot;Ahora puede relacionarlo a algún perfil de contacto ya existente...&quot;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#2B3752;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1258">
           <mxGeometry x="15" y="55" width="320" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1263" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#2E6E65;shadow=0;dashed=0;shape=mxgraph.ios7.icons.glasses;fillColor=#86EE60;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1258">
-          <mxGeometry x="156.25" y="40" width="37.5" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-1264" value="Omitir" style="rounded=1;fillColor=#86EE60;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#2B3752;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;sketch=0;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1258">
           <mxGeometry x="15" y="300" width="150" height="35" as="geometry" />
         </mxCell>
@@ -5747,6 +5744,9 @@
         </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-1278" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1258">
           <mxGeometry x="330" y="190" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1292" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#2E6E65;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cube;fillColor=#86EE60;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1258">
+          <mxGeometry x="162.5" y="40" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-1279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#86EE60;strokeWidth=2;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-1280" target="Qsz4F-vezAwSg5fx23Xu-1282">
           <mxGeometry relative="1" as="geometry" />
