@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="ufY8ivFC1hEdPFtu6fjG">
-    <mxGraphModel dx="3369" dy="6954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2342" dy="6410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <object label="" Especter="" id="0">
           <mxCell />
@@ -5747,6 +5747,54 @@
         </mxCell>
         <mxCell id="Qsz4F-vezAwSg5fx23Xu-1278" value="" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;gradientColor=#F4F7ED;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1258">
           <mxGeometry x="330" y="190" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#86EE60;strokeWidth=2;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-1280" target="Qsz4F-vezAwSg5fx23Xu-1282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1280" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Creación nuevo proveedor&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-5415" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#86EE60;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-1282" target="Qsz4F-vezAwSg5fx23Xu-1284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1282" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;PanelNuevoProveedor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#86EE60;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-5450" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#86EE60;strokeWidth=2;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-1284" target="Qsz4F-vezAwSg5fx23Xu-1286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1284" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;PanelFelicitacionesProveedor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#86EE60;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="-5450" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1285" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;PanelNuevoContacto&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#86EE60;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-5450" width="380" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1286" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Condición&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;(existe contacto)&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#F4F7ED;strokeColor=#86EE60;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="-5447.5" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1287" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;no&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#86EE60;rounded=0;strokeWidth=2;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-1286" target="Qsz4F-vezAwSg5fx23Xu-1285">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2240" y="-5395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1288" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;sí&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#86EE60;rounded=0;strokeWidth=2;" edge="1" parent="1" source="Qsz4F-vezAwSg5fx23Xu-1286" target="Qsz4F-vezAwSg5fx23Xu-1289">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="2055" y="-5255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2055" y="-5266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1289" value="" style="swimlane;startSize=0;fillColor=#F4F7ED;strokeColor=#86EE60;strokeWidth=2;swimlaneFillColor=#F4F7ED;" vertex="1" parent="1">
+          <mxGeometry x="2069" y="-5301" width="341" height="70" as="geometry">
+            <mxRectangle x="319.5" y="-3756" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1290" value="Seleccionar un contacto registrado" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;whiteSpace=wrap;strokeColor=#86EE60;strokeWidth=2;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1289">
+          <mxGeometry x="8" y="26" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qsz4F-vezAwSg5fx23Xu-1291" value="Realizar el registro en Proveedor_Contacto" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;flipH=0;spacingRight=0;spacingLeft=14;whiteSpace=wrap;strokeColor=#86EE60;strokeWidth=2;" vertex="1" parent="Qsz4F-vezAwSg5fx23Xu-1289">
+          <mxGeometry x="161" y="26" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
